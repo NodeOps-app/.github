@@ -11,6 +11,4 @@
                                                   | $$                
                                                   | $$                
                                                    \$$                
-```      
-                              
-> > Simplified Infrastructure for Node Operators & Developers. AI-enabled containerized One-Click Deployment using DePiN
+```
