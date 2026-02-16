@@ -12,8 +12,7 @@ NodeOps is a leading AI-driven cloud built for the community and builders, power
 
 We have many projects, but we want to highlight a few, in a quite specific order:
 
-- [AutoGen](https://autogen.nodeops.network): Vibe and e2e deploy it
-- [Cloud](https://cloud.nodeops.network): Run your containers or find best application from marketplace
+- [CreateOS](https://creatos.nodeops.network): Vibe and e2e deploy it
 - [SafeSend.to](https://safesend.to): no contracts, no middleman, just send your funds safely
 - [Console](https://console.nodeops.network): Run 45+ blockchain nodes
 - [Stake on NodeOps](https://portal.nodeops.network/stakinghub): Earn dual incentives by staking on NodeOps validator
